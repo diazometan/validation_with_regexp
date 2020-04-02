@@ -1,2 +1,1 @@
-# validation_with_regexp
-RegExp validation project "Yandex.Praktikum"
+# RegExp validation project "Yandex.Praktikum"
